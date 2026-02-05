@@ -1,4 +1,4 @@
-## Hey, I'm Thomas
+## Hey, I'm Thomas ✋
 
 I'm a Computer Engineering student at l'École Polytechnique de Montréal, from Canada 🇨🇦 
 - Passionate about low level dev
