@@ -4,7 +4,7 @@ I'm a Computer Engineering student at l'École Polytechnique de Montréal, from 
 - Passionate about low level dev
 - Open source contributor ([Transition](https://github.com/chairemobilite/transition))
 - Previously worked on the SQS and SNS AWS services at Amazon in Vancouver
-- Currently working on [Heimdall](https://github.com/Heimdall-Earth)  
+- Currently working on [Heimdall](https://github.com/Heimdall-space)  
 
 ### Contact
 
