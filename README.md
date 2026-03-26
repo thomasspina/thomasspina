@@ -1,6 +1,6 @@
 ## Hey, I'm Thomas 
 
-I'm a Computer Engineering student at l'École Polytechnique de Montréal, from Québec &nbsp;<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/9a885f25-bed6-476e-9fe0-95345891f882" />
+I'm a Computer Engineering student at l'École Polytechnique de Montréal, from Québec &nbsp;<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a885f25-bed6-476e-9fe0-95345891f882" />
 
 - I love dev
 - Open source contributor ([Transition](https://github.com/chairemobilite/transition))
